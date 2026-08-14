@@ -272,22 +272,6 @@ This project demonstrates practical knowledge of:
 * Business Insight Generation
 
 ---
-
-# 🔮 Future Improvements
-
-The project can be extended by adding:
-
-* Interactive dashboards using **Power BI or Streamlit**
-* Monthly sales trend analysis
-* Customer segmentation
-* Revenue prediction
-* Product recommendation system
-* Statistical analysis
-* Machine Learning-based sales prediction
-* Interactive filters for gender, state, occupation, and product category
-
----
-
 ## 👨‍💻 Author
 
 **Mayank Sahu**
